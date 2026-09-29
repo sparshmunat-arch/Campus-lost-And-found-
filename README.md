@@ -243,13 +243,16 @@ Claiming an item
 Reports and statistics
 Example:
 
-screenshots/
-├── main-menu.png
-├── registration.png
-├── lost-item.png
-├── found-item.png
-├── matching.png
-└── reports.png
+screenshots:- 
+<img width="1390" height="926" alt="1" src="https://github.com/user-attachments/assets/16efd5e2-044d-43b9-b906-611fc6a519b0" />
+<img width="1403" height="927" alt="image" src="https://github.com/user-attachments/assets/c94943c2-24ee-45e5-aa65-042eb5a7c7dc" />
+<img width="1382" height="925" alt="image" src="https://github.com/user-attachments/assets/15a9b4b7-76d0-402c-93e7-f2454324b147" />
+<img width="1397" height="927" alt="image" src="https://github.com/user-attachments/assets/376b5368-a4b6-49a0-a47f-1ae3c5bb0fc7" />
+<img width="1383" height="917" alt="image" src="https://github.com/user-attachments/assets/2e6e2806-beb9-45ad-ad4c-a110e24fa1de" />
+<img width="1408" height="923" alt="image" src="https://github.com/user-attachments/assets/52c37698-a255-4c02-9038-5ecc99506a52" />
+<img width="1393" height="920" alt="image" src="https://github.com/user-attachments/assets/37b38272-c516-4190-999e-d25c54ed46ad" />
+<img width="1413" height="928" alt="image" src="https://github.com/user-attachments/assets/1d9cdd61-1fae-4e44-9b8c-f4980201f8a0" />
+<img width="1406" height="745" alt="image" src="https://github.com/user-attachments/assets/4d49e64e-dd6d-4120-9c4c-fc086bd31c5d" />
 
 11. Expected Result
 The program should successfully provide a simple campus-based system for recording and searching lost and found items.
